@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TomatoSeed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bawah
+  - Water
+  - UI
+  - Background boleh lewat
+  - Player (teratas)
+  - Tombol-tombol
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terbawah
+    uniqueID: 2904016053
+    locked: 0
+  - name: Grid
+    uniqueID: 2361743753
+    locked: 0
+  - name: Rumah
+    uniqueID: 1793233939
+    locked: 0
+  - name: Player
+    uniqueID: 824169765
+    locked: 0
