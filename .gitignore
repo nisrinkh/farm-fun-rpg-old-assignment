@@ -100,8 +100,6 @@ InitTestScene*.unity*
 
 ignore.conf
 
-*.cs.meta
-
 /.plastic/
 /.vscode/
 /Builds/
